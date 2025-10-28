@@ -1,5 +1,7 @@
 # Sentiment Analysis Notebook (V2_Text_analytics.ipynb) Explanation
 
+**By: Wahyu Sukma Jayawardhana - 221111012**
+
 This repository contains a single Jupyter Notebook file (`V2_Text_analytics.ipynb`) used for sentiment analysis on the IMDB movie review dataset.
 
 The main purpose of this repository is to provide documentation and detailed explanations (comments) for each step of the code within the notebook.
